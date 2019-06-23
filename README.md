@@ -15,15 +15,10 @@ and built in MVVM pattern
 
 
 
-
-
-
 ![alt text](https://imgur.com/KoFFBlA.png)
 
 
-
 ![alt text](https://imgur.com/0wOwuLH.png)
-
 
 
 
@@ -33,3 +28,4 @@ and built in MVVM pattern
 
 
 
+  
